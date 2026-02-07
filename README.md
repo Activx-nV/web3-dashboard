@@ -2,6 +2,8 @@
 
 A little **Web3** frontend learning project. Connect your wallet and explore balances, networks, message signing (unsafe verification on FE), and transaction history in one dashboard.
 
+https://web3-dashboard-bice.vercel.app/
+
 ## Implemented features
 
 - **Connect wallet** - RainbowKit connect button; supports MetaMask and other injected wallets.
