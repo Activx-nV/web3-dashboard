@@ -15,6 +15,8 @@ https://web3-dashboard-bice.vercel.app/
 
 Tech: **React**, **TypeScript**, **Vite**, **Tailwind CSS**, **RainbowKit**, **Wagmi**, **Viem**.
 
+Chains: mainnet, sepolia, arbitrum sepolia
+
 ---
 
 ## What I learned (wagmi & viem)
